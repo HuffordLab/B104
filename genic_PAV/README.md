@@ -9,6 +9,6 @@ The pipeline is run in the following order:
 
 The following software is required:
 
-Liftoff: https://github.com/agshumate/Liftoff
-Bedtools: https://bedtools.readthedocs.io/en/latest/
-DagChainer: https://vcru.wisc.edu/simonlab/bioinformatics/programs/dagchainer/dagchainer_documentation.html
+1) Liftoff: https://github.com/agshumate/Liftoff
+2) Bedtools: https://bedtools.readthedocs.io/en/latest/
+3) DagChainer: https://vcru.wisc.edu/simonlab/bioinformatics/programs/dagchainer/dagchainer_documentation.html
